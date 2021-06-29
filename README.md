@@ -1,5 +1,5 @@
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Decision_Trees/blob/main/decision_tree_projeto_vinho.ipynb)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Decision_Trees/blob/main/1.PNG)
 
 ________________________________________________________________________________________________________________________________________________
 
