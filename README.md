@@ -1,5 +1,5 @@
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/graficos_gerados.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Decision_Trees/blob/main/decision_tree_projeto_vinho.ipynb)
 
 ________________________________________________________________________________________________________________________________________________
 
